@@ -1,2 +1,6 @@
 baseurl = "https://vigorous-mirzakhani-bf2ecc.netlify.com/"
 title = "Doctrina Elim"
+theme = "hugo-universal-theme"
+languageCode = "es-es"
+# Site language. Available translations in the theme's `/i18n` directory.
+defaultContentLanguage = "es"
